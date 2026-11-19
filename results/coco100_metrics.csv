@@ -1,0 +1,6 @@
+metric,value
+image_count,100
+caption_count,500
+Recall@1,0.82
+Recall@5,0.98
+Recall@10,1.0

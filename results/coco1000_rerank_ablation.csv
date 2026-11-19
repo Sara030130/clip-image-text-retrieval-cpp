@@ -1,0 +1,5 @@
+setting,Recall@1,Recall@5,Recall@10
+CLIP Top-10,0.702,0.898,0.952
+CLIP Top-20,0.702,0.898,0.952
+BLIP rerank Top-10,0.892,0.945,0.952
+BLIP rerank Top-20,0.91,0.968,0.977

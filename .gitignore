@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Models and large artifacts
+checkpoints/
+*.onnx
+*.onnx.data
+*.pt
+*.pth
+*.bin
+*.npy
+data/text_index/
+
+# Build artifacts
+cpp/build/
+build/
+*.o
+*.dylib
+*.so
+
+# Local outputs
+output.bin
+cpp/output.bin
+
+# Personal / local-only documents
+项目上下文.md
+项目进度表.docx
+*简历*.docx
+李婉琪*.docx
+
+# Scratch and duplicate notebooks
+notebooks/*_副本.ipynb
+notebooks/failed_attempt_*.ipynb
+cpp/q.ipynb
+results/*_副本.*

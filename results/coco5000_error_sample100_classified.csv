@@ -1,0 +1,102 @@
+﻿序号,图片文件,正确描述,预测描述,预测图片文件,错误类型
+1,000000111951.jpg,A couple of white bathroom sinks sitting next to a toilet.,A modern bathroom with a large bathtub and walk in shower.,000000514914.jpg,细粒度属性/物体混淆
+2,000000023034.jpg,A man riding on the back of a brown horse.,A trail guide stands next to the loaded pack horse.,000000047819.jpg,动作/人物/空间关系错误
+3,000000263068.jpg,A man in dark clothing is on a cement step doing a trick with his skateboard.,A young man skateboarding jumps on a concrete ramp.,000000067310.jpg,同类场景/实例混淆
+4,000000234607.jpg,A man and a woman playing a game on the Nintendo Wii.,A man and woman playing a wii game.,000000036936.jpg,同类场景/实例混淆
+5,000000213224.jpg,A vase filled with flowers next to a smaller vase filled with even more flowers.,"Two large, purple flowers are in a large vase.",000000555972.jpg,细粒度属性/物体混淆
+6,000000136466.jpg,a stove with a tea kettle and cooking pot on top,A black dual oven stove with controls on the top.,000000531771.jpg,细粒度属性/物体混淆
+7,000000101420.jpg,A cat sitting on the back of a sofa looking out a window.,A cat is perched on the back of a sofa in a multi colored room.,000000139684.jpg,同类场景/实例混淆
+8,000000516316.jpg,An antilope is eating grass in between two zebra.,A herd of zebras standing on a sandy platform near a small body of water.,000000378453.jpg,细粒度属性/物体混淆
+9,000000085911.jpg,A kite sitting in the middle of a large body of water.,a person using a parachute with a wake board,000000563349.jpg,跨场景混淆
+10,000000564023.jpg,A public restroom with a toilet in the floor.,This is an advanced toilet with a sink and control panel.,000000331352.jpg,细粒度属性/物体混淆
+11,000000403122.jpg,Female tennis player preparing to serve the ball,A female tennis player on the court serving a ball.,000000037988.jpg,同类场景/实例混淆
+12,000000029596.jpg,"A room with a couch, table set with dinnerware and a television. ",A small hotel room is furnished for business,000000218091.jpg,同类场景/实例混淆
+13,000000026690.jpg,A man is high in the air as he skateboards on the ramp.,A young male skateboarder is high in the air.,000000563648.jpg,同类场景/实例混淆
+14,000000093353.jpg,A piece of bread with a hot dog in the middle is shown.,The sandwich cookie has fruit in the middle of it. ,000000089670.jpg,跨场景混淆
+15,000000207728.jpg,A mother sheep and a baby sheep pictured here.,Three big horn sheep are in an enclosed pasture. ,000000198960.jpg,细粒度属性/物体混淆
+16,000000222825.jpg,A kitchen with a stove top oven next to a white fridge.,A kitchen area features a white refrigerator a stove and other appliances and brown cabinets.,000000445658.jpg,同类场景/实例混淆
+17,000000478862.jpg,"Groups of people walk around a huge, multi engine airplane.",A military plane parked in a hanger with a person sitting nearby.,000000272136.jpg,同类场景/实例混淆
+18,000000574702.jpg,Several motor scooters are jammed into a small market street.,Most people negotiate the city streets with motorbikes in this Asian city.,000000226417.jpg,同类场景/实例混淆
+19,000000024027.jpg,A kite flying over a city park on a windy day.,A large colorful kite is being flown over a field.,000000433515.jpg,同类场景/实例混淆
+20,000000532481.jpg,A person kitesurfing over the waves of the ocean's shore.,A man riding a kiteboard over the ocean under a gray sky.,000000359677.jpg,同类场景/实例混淆
+21,000000189078.jpg,"Variety of fruits such as bananas, oranges, and apples on a platter.","A group of red, yellow and orange fruit  mixed together.",000000128598.jpg,同类场景/实例混淆
+22,000000516173.jpg,A woman in a wet suit carrying a surfboard into the ocean.,The man stands holding a surfboard as he looks out at the sea.,000000512985.jpg,动作/人物/空间关系错误
+23,000000400794.jpg,A man sitting at a table eating food from a plate.,A man sitting in a restaurant photographs a sandwich.,000000350148.jpg,动作/人物/空间关系错误
+24,000000210030.jpg,A white plate with a slice of cake on top of it.,A large white cake on a small table.,000000453040.jpg,细粒度属性/物体混淆
+25,000000429623.jpg,A very large pizza on top of a pan on a table.,Large baked pizza served on stand at table with beverages.,000000116208.jpg,同类场景/实例混淆
+26,000000563349.jpg,A person on a board holding a para sail rope over a snow field.,A man performing a trick in the air with a pair of skis.,000000352760.jpg,动作/人物/空间关系错误
+27,000000266400.jpg,a row of motorcycles parked on a city street,view of a motorcycle sitting amongst others at a convention,000000279887.jpg,同类场景/实例混淆
+28,000000005600.jpg,A pan filled with onions sitting next to a pan of stew.,A container of Indian fried pastries and tongs,000000328117.jpg,跨场景混淆
+29,000000155443.jpg,A train pulling into the station in a city.,A large blue and yellow train stops near a fairly-non urban train-station.,000000287874.jpg,同类场景/实例混淆
+30,000000403817.jpg,A cat sitting beside a laptop on a desk.,A young cat stands on a computer desk.,000000179392.jpg,同类场景/实例混淆
+31,000000322724.jpg,a man that is skiing down a snowy field,A woman poses on the slope with her skis. ,000000327605.jpg,动作/人物/空间关系错误
+32,000000265816.jpg,a white horse pulling a carriage with a man on it.,A horse and carriage parked beside a building.,000000140286.jpg,同类场景/实例混淆
+33,000000153343.jpg,two big stuffed bears sitting behind a chained fenced,A group of stuffed bears are arranged in a display.,000000349480.jpg,同类场景/实例混淆
+34,000000203095.jpg,a bunch of food is layed out next to an oven,The four images show the preparation of different stews.,000000410735.jpg,模糊描述/标注歧义
+35,000000320490.jpg,A little boy is swinging a baseball bat at a ball.,A boy prepares to hit a ball at a baseball game.,000000414673.jpg,同类场景/实例混淆
+36,000000101068.jpg,A baseball player holding a bat while standing on a field.,A little league baseball player hits a ball.,000000192670.jpg,同类场景/实例混淆
+37,000000091921.jpg,A zebra standing next to a  zebra laying on the ground.,Three zebras standing in the sand in a zoo.,000000501243.jpg,细粒度属性/物体混淆
+38,000000361586.jpg,several people are purchasing tickets at a bus station,Two customers and three employees interact in the deli.,000000125936.jpg,跨场景混淆
+39,000000096493.jpg,A boy draped in a blanket holds a remote control on a couch,A young boy in his pajamas is playing a video game.,000000575081.jpg,动作/人物/空间关系错误
+40,000000342397.jpg,Skier performing jump on high altitude ski slope.,A person in a blue coat is skiing down a slope.,000000329827.jpg,动作/人物/空间关系错误
+41,000000326174.jpg,A group of people are taking surfing lessons.,"children and an instructor on  a beach, with the children sitting on surfboards",000000081988.jpg,同类场景/实例混淆
+42,000000576031.jpg,A woman on skis stands on a flat snowy surface.,A person is cross country skiing on a trail.,000000128112.jpg,同类场景/实例混淆
+43,000000255401.jpg,A bathroom filled with toilets and a tub next to a sink.,A small closed toilet in a cramped space.,000000331352.jpg,同类场景/实例混淆
+44,000000039551.jpg,A woman that is standing on a tennis court with a racquet.,"a black woman wearing white attire and shoes running on a tennis court,",000000522889.jpg,动作/人物/空间关系错误
+45,000000439994.jpg,A group of baseball players standing on top of a field.,A baseball player is at bat as the crowd watches.,000000072795.jpg,动作/人物/空间关系错误
+46,000000508586.jpg,Herd of zebra grazing on dried grasses in open field.,A group of zebra grazing grass with a backdrop of bushes.,000000054123.jpg,同类场景/实例混淆
+47,000000125257.jpg,a person walking on a snow covered field.,A skiier on a snowy path at sunset.,000000083540.jpg,动作/人物/空间关系错误
+48,000000360951.jpg,A computer workstation with a laptop and a desktop computer.,A picture of an iMac desktop next to a Mac laptop on a desk. ,000000001503.jpg,同类场景/实例混淆
+49,000000079014.jpg,This is a blurry image of a man looking at something yellow and roundish.,A man purses his lips while holding up an orange in front of his face.,000000138115.jpg,模糊描述/标注歧义
+50,000000523241.jpg,A busy street with several lanes and a crossing sign in the foreground.,A red and white traffic sign attached to a pole in a city.,000000309173.jpg,模糊描述/标注歧义
+51,000000282912.jpg,A giraffe next to a stone fence staring off into the distance.,A giraffe standing up behind a fenced in area,000000498857.jpg,同类场景/实例混淆
+52,000000344621.jpg,A living room filled with furniture and  set of glass doors.,The living room is spacious and clean with hardwood floors and seating on leather sofas.,000000128148.jpg,同类场景/实例混淆
+53,000000551215.jpg,a tennis player running to get to the ball,A woman running across a tennis court in a shirt skirt.,000000475191.jpg,同类场景/实例混淆
+54,000000182923.jpg,A woman swinging a tennis racquet on a tennis court.,A female tennis player on grass about to serve,000000403122.jpg,动作/人物/空间关系错误
+55,000000066561.jpg,Couple of sheep relaxing in a fielder brown,A large white sheep next to a small black one,000000397639.jpg,细粒度属性/物体混淆
+56,000000043435.jpg,"Two surfers catching two different waves, one after the other.",A lone surfer trying to ride a small wave.,000000292908.jpg,细粒度属性/物体混淆
+57,000000217060.jpg,The airplane is flying near a cloud in the sky. ,A flying plane with smoke trailing behind it.,000000044652.jpg,同类场景/实例混淆
+58,000000279730.jpg,A person holding a sandwich next to a cup of coffee.,A chili dog on a homemade bun is worth the wait.,000000548555.jpg,跨场景混淆
+59,000000079408.jpg,A red stop sign sitting next to a forest.,there is a very close-up view of a stop sign,000000191471.jpg,同类场景/实例混淆
+60,000000222863.jpg,A large cow with horns by some bushes.,A cow with a bell around its neck standing near a wood pile.,000000090062.jpg,细粒度属性/物体混淆
+61,000000100283.jpg,A stop sign on the corner in front of a row of stores.,A stop sign with the work stop written in Arabic.,000000104198.jpg,细粒度属性/物体混淆
+62,000000433515.jpg,a large kite on a field of green grass ,a colorful kite flying by some people in the park ,000000014439.jpg,同类场景/实例混淆
+63,000000347693.jpg,A couple of windows sitting inside of a room.,Panoramic view of a hospital room with medical machines and a woman lying in hospital bed.,000000449661.jpg,跨场景混淆
+64,000000158227.jpg,A young boy wearing a baseball uniform holding a baseball bat.,The Little League batter is taking a swing at home plate.,000000279774.jpg,同类场景/实例混淆
+65,000000351589.jpg,A wooden bench sitting outside of a home.,an image of a man sitting on a park bench,000000209222.jpg,动作/人物/空间关系错误
+66,000000338532.jpg,A giraffe stands in the middle of a sandy area.,An adult and a younger giraffe are facing the same direction.,000000079565.jpg,细粒度属性/物体混淆
+67,000000197528.jpg,A cat sitting on a window sill behind mini blinds.,A grey cat standing in a window with grey lining.,000000219485.jpg,同类场景/实例混淆
+68,000000256941.jpg,a bicycle with a basket and a blue and pink umbrella ,Bathroom scene showing a television and a hair dryer.,000000239041.jpg,跨场景混淆
+69,000000067616.jpg,A restaurant with patrons in the outdoor eating area.,People cross the street at the corner of luxury buildings.,000000412894.jpg,跨场景混淆
+70,000000581317.jpg,A woman holding a small item in a field.,A young woman reading a text message that appears in the air next to her.,000000202001.jpg,动作/人物/空间关系错误
+71,000000164969.jpg,A pizza in a box with toppings that are divided into thirds.,A pizza is shown with various toppings on it.,000000555412.jpg,同类场景/实例混淆
+72,000000507235.jpg,well cooked food in a big bowl on a table,Several pictures of Asian style dishes and in the middle a person is eating.,000000381587.jpg,同类场景/实例混淆
+73,000000234413.jpg,A white toilet sitting in a bathroom stall next to a TP dispenser.,A white toilet with a black seat on top of a tiled floor.,000000564127.jpg,同类场景/实例混淆
+74,000000159311.jpg,A pair of zebra's leaning over eating grass in a field.,Two zebras stand together on a dirt area near short grass.,000000124975.jpg,同类场景/实例混淆
+75,000000441586.jpg,"MAN ON A CONTRAPTION, SURROUNDED BY A BICYCLE AND ANOTHER PERSON","A man sitting on the ground, fixing a motorcycle wheel.",000000013177.jpg,动作/人物/空间关系错误
+76,000000361238.jpg,A woman sitting in front of a giant pizza.,A lady wearing glasses looking at a large pizza,000000292024.jpg,同类场景/实例混淆
+77,000000259830.jpg,A moped is parked next to bicycles on a sidewalk.,A yellow and black sign for a restaurant and lounge with red arrow pointing downwards.,000000404601.jpg,跨场景混淆
+78,000000528705.jpg,A brown bear sitting on top of a persons back.,An injured woman holding a teddy bear close to her chest,000000322944.jpg,跨场景混淆
+79,000000209530.jpg,A group of people sitting around a table.,"Two men are posing for a photo, one man is holding a slice of pizza on a plate, and they are surrounded by other people sitting at tables.",000000382125.jpg,同类场景/实例混淆
+80,000000308193.jpg,A large building with a clock at the top of it .,An old gothic style building with statues adorning it and a clock.,000000130465.jpg,同类场景/实例混淆
+81,000000054164.jpg,a man that is surfing on some water,A young surfer in a wetsuit surfs a small wave.,000000252701.jpg,同类场景/实例混淆
+82,000000217753.jpg,"A large display of fruit: applies, grapes, oranges, lemons, limes and grapefruit",A large variety of fruits displayed for sale in a store.,000000479596.jpg,同类场景/实例混淆
+83,000000029640.jpg,A skillet contains diced meat and mixed vegetables.,"A red plate topped with broccoli, meat and veggies.",000000460494.jpg,同类场景/实例混淆
+84,000000299355.jpg,some gross ass vegetables that look slimy AF,Chicken and mushrooms served with broccoli garnished with parsley.,000000034205.jpg,细粒度属性/物体混淆
+85,000000378284.jpg,A person sits across from a pizza ready to be served.,A pizza topped with an assortment of vegetables on a wooden table.,000000579900.jpg,动作/人物/空间关系错误
+86,000000257370.jpg,two people are playing a baseball video game,A man and boy playing a game with a Nintendo Wii controller.,000000471893.jpg,同类场景/实例混淆
+87,000000063740.jpg,Two computers sitting on top of a desk.,Portioned lunch in front of laptop in nice workspace.,000000248314.jpg,动作/人物/空间关系错误
+88,000000198928.jpg,A woman standing next to a light pole by a street.,A sculpture resembling an umbrella stands in the middle of a plaza,000000528980.jpg,跨场景混淆
+89,000000538458.jpg,THERE ARE PEOPLE PLAYING SKATE BOARD ON THE STREET ,A skater is attempting a rail grind. ,000000426203.jpg,同类场景/实例混淆
+90,000000297698.jpg,A man is skiing in mid jump onto a ramp.,An athlete is that in the air during a snow ski long jump.,000000352760.jpg,同类场景/实例混淆
+91,000000200162.jpg,A train traveling under a signal lights on top of tracks.,A diesel locomotive hauling some freight through the countyside,000000396568.jpg,同类场景/实例混淆
+92,000000474786.jpg,A bathroom with a sink and television inside of the mirror.,A flat screen TV adorns a bathroom mirror.,000000017379.jpg,同类场景/实例混淆
+93,000000373315.jpg,A man riding a skateboard up the side of a cement ramp.,A black and white photo of a man doing a trick on his skateboard.,000000431848.jpg,同类场景/实例混淆
+94,000000439525.jpg,A man and a woman cutting up a small white cake.,A woman in a white dress and a man in gray stand near a cake on a white table under a white canopy.,000000031620.jpg,同类场景/实例混淆
+95,000000140270.jpg,A person is riding a horse around on grasses,A midsized horse in a field with her rider standing,000000367818.jpg,动作/人物/空间关系错误
+96,000000255536.jpg,A row of various types of chairs and umbrella with a bridge in the background.,"A photo of an outside with various things in the scene.
+",000000229747.jpg,模糊描述/标注歧义
+97,000000236412.jpg,A pizza casserole  with two kinds of crackers on the side.,A large slice of pizza with cheese and marinara sauce on a plate. ,000000337498.jpg,同类场景/实例混淆
+98,000000532493.jpg,A surfer on a white board riding a small wave.,An over head shot of a young person surfing on a surfboard. ,000000122672.jpg,同类场景/实例混淆
+99,000000512330.jpg,An open refrigerator filled with lots of food.,An open refrigerator including bottles of various food.,000000073326.jpg,同类场景/实例混淆
+100,000000252716.jpg,A frisbee that is laying in the grass near a tree.,A young lady throwing a blue frisbee while standing on a lush green field.,000000261061.jpg,动作/人物/空间关系错误

@@ -1,0 +1,272 @@
+[
+  {
+    "image_index": 1,
+    "image_id": 190236,
+    "file_name": "000000190236.jpg",
+    "correct_captions": [
+      "An office cubicle with four different types of computers.",
+      "The home office space seems to be very cluttered.",
+      "an office with desk computer and chair and laptop.",
+      "Office setting with a lot of computer screens.",
+      "A desk and chair in an office cubicle."
+    ],
+    "predicted_caption": "A desk with two monitors depicting security cameras.",
+    "predicted_image_id": 472678,
+    "predicted_file_name": "000000472678.jpg"
+  },
+  {
+    "image_index": 2,
+    "image_id": 331352,
+    "file_name": "000000331352.jpg",
+    "correct_captions": [
+      "A small closed toilet in a cramped space.",
+      "A tan toilet and sink combination in a small room.",
+      "This is an advanced toilet with a sink and control panel.",
+      "A close-up picture of a toilet with a fountain.",
+      "Off white toilet with a faucet and controls. "
+    ],
+    "predicted_caption": "A well decorated toilet seat with undecorated surroundings.",
+    "predicted_image_id": 551304,
+    "predicted_file_name": "000000551304.jpg"
+  },
+  {
+    "image_index": 3,
+    "image_id": 517069,
+    "file_name": "000000517069.jpg",
+    "correct_captions": [
+      "Two women waiting at a bench next to a street.",
+      "A woman sitting on a bench and a woman standing waiting for the bus.",
+      "A woman sitting on a bench in the middle of the city",
+      "A woman sitting on a bench and a woman standing behind the bench at a bus stop",
+      "A woman and another woman waiting at a stop."
+    ],
+    "predicted_caption": "A woman is sitting on a stool on a sidewalk.",
+    "predicted_image_id": 365642,
+    "predicted_file_name": "000000365642.jpg"
+  },
+  {
+    "image_index": 25,
+    "image_id": 445846,
+    "file_name": "000000445846.jpg",
+    "correct_captions": [
+      "A clean kitchen with the windows white and open.",
+      "Spacious white kitchen with brown cabinetry, sink and appliances. ",
+      "An office kitchen with open windows and no food.",
+      "An extremely plain, and outdated white colored kitchen",
+      "A kitchen scene is shown with cabinets and appliances."
+    ],
+    "predicted_caption": "A bathroom scene with a modern toilet and wooden fixtures",
+    "predicted_image_id": 423971,
+    "predicted_file_name": "000000423971.jpg"
+  },
+  {
+    "image_index": 27,
+    "image_id": 365642,
+    "file_name": "000000365642.jpg",
+    "correct_captions": [
+      "A young attractive woman sitting on a toilette on the side of a street.",
+      "A person sitting on a stool on the street.",
+      "A woman sitting on a bucket on the side of a street. ",
+      "A woman is sitting on a stool on a sidewalk.",
+      "A woman in a coat, sitting outside on a toilet."
+    ],
+    "predicted_caption": "A young woman in black spotted tights is sitting on a bench.",
+    "predicted_image_id": 391375,
+    "predicted_file_name": "000000391375.jpg"
+  },
+  {
+    "image_index": 28,
+    "image_id": 393569,
+    "file_name": "000000393569.jpg",
+    "correct_captions": [
+      "A young woman using a laptop computer while sitting on a bunk bed.",
+      "A person that is sitting in a bed facing out.",
+      "A young girl sits in the bottom bunk of her bunkbed.",
+      "A bedroom with bunk beds and the bathroom next door.",
+      "Three people live in one room who share a bathroom."
+    ],
+    "predicted_caption": "A woman in a yellow bathroom is holding a camera.",
+    "predicted_image_id": 561256,
+    "predicted_file_name": "000000561256.jpg"
+  },
+  {
+    "image_index": 31,
+    "image_id": 570736,
+    "file_name": "000000570736.jpg",
+    "correct_captions": [
+      "A view of a bathroom that is clean.",
+      "A bathroom with a vanity, toilet and shower.",
+      "The bathroom features a vanity sink and tub/shower combination.",
+      "A small bathroom is featured in this photo.",
+      "a cream themed bathroom with a toilet, sink with mirror, and shower"
+    ],
+    "predicted_caption": "A bathroom scene with a modern toilet and wooden fixtures",
+    "predicted_image_id": 423971,
+    "predicted_file_name": "000000423971.jpg"
+  },
+  {
+    "image_index": 41,
+    "image_id": 298396,
+    "file_name": "000000298396.jpg",
+    "correct_captions": [
+      "Kitchen area with counter top space and dining room table. ",
+      "A fully-stocked kitchen with no one in it.",
+      "An old style kitchen with baby blue cabinets.",
+      "A very clean and cozy looking kitchen that could be in a home magazine.",
+      "A kitchen filled with appliances dishes and a bowl of fruit."
+    ],
+    "predicted_caption": "A kitchen scene is shown with cabinets and appliances.",
+    "predicted_image_id": 445846,
+    "predicted_file_name": "000000445846.jpg"
+  },
+  {
+    "image_index": 45,
+    "image_id": 453634,
+    "file_name": "000000453634.jpg",
+    "correct_captions": [
+      "A bathroom with a toilette with it's seat down.",
+      "A bathroom with a sink and a toilet",
+      "A fancy bathroom with a clean toilet and piping.",
+      "a bathroom with a toilet a sink and a shower",
+      "A bathroom scene with focus on the toilet."
+    ],
+    "predicted_caption": "a bathroom with two sinks near towel and soap dispensers ",
+    "predicted_image_id": 557501,
+    "predicted_file_name": "000000557501.jpg"
+  },
+  {
+    "image_index": 46,
+    "image_id": 201775,
+    "file_name": "000000201775.jpg",
+    "correct_captions": [
+      "A bathroom with two urinals and a sink.",
+      "White stalls installed on the walls of a men's room.",
+      "Men's restroom with toilet and urinals along tiled walls.",
+      "A public bathroom with two urinals on a wall, and sink with a mirror over it on another wall",
+      "Two urinals and a sink in a bathroom.  "
+    ],
+    "predicted_caption": "a bathroom with two sinks near towel and soap dispensers ",
+    "predicted_image_id": 557501,
+    "predicted_file_name": "000000557501.jpg"
+  },
+  {
+    "image_index": 61,
+    "image_id": 452793,
+    "file_name": "000000452793.jpg",
+    "correct_captions": [
+      "A kitchen with a granite counter top and faucet.",
+      "A kitchen with a stainless steel fridge and granite counters. ",
+      "A kitchen with a big fridge and a big sink.",
+      "This new fridge goes great in this clean kitchen.",
+      "View of kitchen sink, stainless refrigerator and breakfast room"
+    ],
+    "predicted_caption": "This is a small kitchen with white cabinets and appliances.",
+    "predicted_image_id": 109976,
+    "predicted_file_name": "000000109976.jpg"
+  },
+  {
+    "image_index": 62,
+    "image_id": 456865,
+    "file_name": "000000456865.jpg",
+    "correct_captions": [
+      "An airplane just landed on the runway ",
+      "A large plane sits on the large runway.",
+      "A large white airplane parked upon a runway",
+      "an airplane sitting on the tarmac with clouds above it",
+      "airplane on the runway and a cloudy sky"
+    ],
+    "predicted_caption": "A large jet airplane sitting on a tarmac at an airport.",
+    "predicted_image_id": 99054,
+    "predicted_file_name": "000000099054.jpg"
+  },
+  {
+    "image_index": 74,
+    "image_id": 543047,
+    "file_name": "000000543047.jpg",
+    "correct_captions": [
+      "A scene of an apartment with a dining table and a couple of couches.",
+      "A living room and dining room have two tables, couches, and multiple chairs.",
+      "A colorful living area with living room, dining room and a kitchen.",
+      "Living area with purple couches, looking into the dining area.",
+      "A living room and dining room are in pink and green."
+    ],
+    "predicted_caption": "View of kitchen sink, stainless refrigerator and breakfast room",
+    "predicted_image_id": 452793,
+    "predicted_file_name": "000000452793.jpg"
+  },
+  {
+    "image_index": 79,
+    "image_id": 99054,
+    "file_name": "000000099054.jpg",
+    "correct_captions": [
+      "some planes on an air port run way",
+      "A large jet airplane sitting on a tarmac at an airport.",
+      "An airplane parked at the runway is being serviced by workers.",
+      "An airplane being prepped for flight, as another plane passes by.",
+      "An airplane is at an airport with yellow hoses by it."
+    ],
+    "predicted_caption": "Egyptair airplane standing on the tarmac at airport",
+    "predicted_image_id": 96549,
+    "predicted_file_name": "000000096549.jpg"
+  },
+  {
+    "image_index": 81,
+    "image_id": 62025,
+    "file_name": "000000062025.jpg",
+    "correct_captions": [
+      "An image of a hotel bathroom that is ugly.",
+      "A small bathroom where the vanity is over the sink and toilet.",
+      "A bathroom contains a toilet and sink below a vanity.",
+      "A bathroom has an mirror with an overhead light.",
+      "A bathroom with a sink, toilet and tub in front of a large mirror."
+    ],
+    "predicted_caption": "A photograph of a newly remodeled bathroom in a home.",
+    "predicted_image_id": 187513,
+    "predicted_file_name": "000000187513.jpg"
+  },
+  {
+    "image_index": 82,
+    "image_id": 489091,
+    "file_name": "000000489091.jpg",
+    "correct_captions": [
+      "A residential bathroom has a modern motel look with upgraded fixtures and accessories.",
+      "A small bathroom with a large mirror and single sink vanity.",
+      "A white bathroom that has been newly cleaned",
+      "A bathroom sink next to a white toilet under a large mirror.",
+      "A vanity and toilet are in a bathroom under a mirror."
+    ],
+    "predicted_caption": "A photograph of a newly remodeled bathroom in a home.",
+    "predicted_image_id": 187513,
+    "predicted_file_name": "000000187513.jpg"
+  },
+  {
+    "image_index": 92,
+    "image_id": 221708,
+    "file_name": "000000221708.jpg",
+    "correct_captions": [
+      "Lights shine on a wooden dining room table.",
+      "A kitchen with a table and four chairs.",
+      "Partial picture of a kitchen and a table and chairs under a lamp.",
+      "Small table and chairs set in a small kitchen.\n",
+      "A wood paneled kitchen with dining table and tiled floor."
+    ],
+    "predicted_caption": "An older picture of a large kitchen with white appliances.",
+    "predicted_image_id": 40471,
+    "predicted_file_name": "000000040471.jpg"
+  },
+  {
+    "image_index": 93,
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "correct_captions": [
+      "A street filled with lots of traffic next to tall buildings.",
+      "Cars and a bus are stopped at an intersection.",
+      "many vehicles stopped on a city street ",
+      "A number of vehicles waiting at an intersection.",
+      "A group of cars waiting at an intersection for the light to change"
+    ],
+    "predicted_caption": "A car and a public transit vehicle on a road.",
+    "predicted_image_id": 86220,
+    "predicted_file_name": "000000086220.jpg"
+  }
+]

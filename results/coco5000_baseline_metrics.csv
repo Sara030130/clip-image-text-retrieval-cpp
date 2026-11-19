@@ -1,0 +1,5 @@
+metric,value
+Recall@1,0.5002
+Recall@5,0.75
+Recall@10,0.8324
+Top-1 error count,2499

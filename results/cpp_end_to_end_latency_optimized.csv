@@ -1,0 +1,2 @@
+image_read_ms,preprocess_ms,model_ms,topk_ms,end_to_end_ms,device,model,runs,optimization
+3.44554,2.25783,24.9221,1.40492,32.0304,Apple Silicon CPU,CLIP ViT-B-32-quickgelu,10,Apple Accelerate cblas_sgemv
